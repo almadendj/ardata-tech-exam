@@ -4,3 +4,6 @@
 [submodule "ardata-exam-backend"]
 	path = ardata-exam-backend
 	url = https://github.com/almadendj/ardata-exam-backend.git
+[submodule "ardata-exam-smart-contract"]
+	path = ardata-exam-smart-contract
+	url = https://github.com/almadendj/ardata-exam-smart-contract.git
