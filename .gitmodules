@@ -1,0 +1,3 @@
+[submodule "ardata-exam-frontend"]
+	path = ardata-exam-frontend
+	url = https://github.com/almadendj/ardata-exam-frontend.git
